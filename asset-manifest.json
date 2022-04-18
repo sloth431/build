@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.605bef00.css",
-    "main.js": "/static/js/main.009bc6d5.js",
-    "static/js/787.1616acc5.chunk.js": "/static/js/787.1616acc5.chunk.js",
-    "static/media/bg-1.svg": "/static/media/bg-1.61eb129f3393cb6d28427d94b15264af.svg",
-    "static/media/bg-2.svg": "/static/media/bg-2.80a23e121db5c1edf5d150a6a4083c66.svg",
-    "static/media/BSC.svg": "/static/media/BSC.27f11a0d546ea9ac11e058777a3fe5ba.svg",
-    "static/media/POLYGON.svg": "/static/media/POLYGON.befb0cc4312b7da155543a7ab5ef0c58.svg",
-    "static/media/l0.svg": "/static/media/l0.db9bbb691cb1b3454729f870c33c63b6.svg",
-    "static/media/ARBITRUM.svg": "/static/media/ARBITRUM.13083b6020e9f768b323ed579afa353e.svg",
-    "static/media/FANTOM.svg": "/static/media/FANTOM.64a134e8a2c2e7fec0be7de3697fe227.svg",
-    "static/media/OPTIMISM.svg": "/static/media/OPTIMISM.343f2b4ff29bc7a5ed563b1d03730bf8.svg",
-    "static/media/AVALANCHE.svg": "/static/media/AVALANCHE.98a1398bb1303e46949d24cc7c892660.svg",
-    "index.html": "/index.html",
-    "static/media/ETHEREUM.svg": "/static/media/ETHEREUM.84f07f5db05d9ac5384949111a3f47b1.svg",
-    "main.605bef00.css.map": "/static/css/main.605bef00.css.map",
-    "main.009bc6d5.js.map": "/static/js/main.009bc6d5.js.map",
-    "787.1616acc5.chunk.js.map": "/static/js/787.1616acc5.chunk.js.map"
+    "main.css": "./static/css/main.605bef00.css",
+    "main.js": "./static/js/main.ed4e935b.js",
+    "static/js/787.1616acc5.chunk.js": "./static/js/787.1616acc5.chunk.js",
+    "static/media/bg-1.svg": "./static/media/bg-1.61eb129f3393cb6d28427d94b15264af.svg",
+    "static/media/bg-2.svg": "./static/media/bg-2.80a23e121db5c1edf5d150a6a4083c66.svg",
+    "static/media/BSC.svg": "./static/media/BSC.27f11a0d546ea9ac11e058777a3fe5ba.svg",
+    "static/media/POLYGON.svg": "./static/media/POLYGON.befb0cc4312b7da155543a7ab5ef0c58.svg",
+    "static/media/l0.svg": "./static/media/l0.db9bbb691cb1b3454729f870c33c63b6.svg",
+    "static/media/ARBITRUM.svg": "./static/media/ARBITRUM.13083b6020e9f768b323ed579afa353e.svg",
+    "static/media/FANTOM.svg": "./static/media/FANTOM.64a134e8a2c2e7fec0be7de3697fe227.svg",
+    "static/media/OPTIMISM.svg": "./static/media/OPTIMISM.343f2b4ff29bc7a5ed563b1d03730bf8.svg",
+    "static/media/AVALANCHE.svg": "./static/media/AVALANCHE.98a1398bb1303e46949d24cc7c892660.svg",
+    "index.html": "./index.html",
+    "static/media/ETHEREUM.svg": "./static/media/ETHEREUM.84f07f5db05d9ac5384949111a3f47b1.svg",
+    "main.605bef00.css.map": "./static/css/main.605bef00.css.map",
+    "main.ed4e935b.js.map": "./static/js/main.ed4e935b.js.map",
+    "787.1616acc5.chunk.js.map": "./static/js/787.1616acc5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.605bef00.css",
-    "static/js/main.009bc6d5.js"
+    "static/js/main.ed4e935b.js"
   ]
 }
