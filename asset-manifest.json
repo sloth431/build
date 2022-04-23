@@ -1,8 +1,12 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.605bef00.css",
-    "main.js": "/build/static/js/main.f9c316f5.js",
+    "main.css": "/build/static/css/main.e8b3bfda.css",
+    "main.js": "/build/static/js/main.52b66732.js",
     "static/js/787.1616acc5.chunk.js": "/build/static/js/787.1616acc5.chunk.js",
+    "static/media/materialdesignicons-webfont.eot": "/build/static/media/materialdesignicons-webfont.599efba674995b0fb2e2.eot",
+    "static/media/materialdesignicons-webfont.ttf?v=6.6.96": "/build/static/media/materialdesignicons-webfont.616f0de3b4305c610a6c.ttf",
+    "static/media/materialdesignicons-webfont.woff?v=6.6.96": "/build/static/media/materialdesignicons-webfont.a926f7aa1368e3673474.woff",
+    "static/media/materialdesignicons-webfont.woff2?v=6.6.96": "/build/static/media/materialdesignicons-webfont.4c0f6c237fbc15728235.woff2",
     "static/media/bg-1.svg": "/build/static/media/bg-1.61eb129f3393cb6d28427d94b15264af.svg",
     "static/media/bg-2.svg": "/build/static/media/bg-2.80a23e121db5c1edf5d150a6a4083c66.svg",
     "static/media/BSC.svg": "/build/static/media/BSC.27f11a0d546ea9ac11e058777a3fe5ba.svg",
@@ -14,12 +18,12 @@
     "static/media/AVALANCHE.svg": "/build/static/media/AVALANCHE.98a1398bb1303e46949d24cc7c892660.svg",
     "index.html": "/build/index.html",
     "static/media/ETHEREUM.svg": "/build/static/media/ETHEREUM.84f07f5db05d9ac5384949111a3f47b1.svg",
-    "main.605bef00.css.map": "/build/static/css/main.605bef00.css.map",
-    "main.f9c316f5.js.map": "/build/static/js/main.f9c316f5.js.map",
+    "main.e8b3bfda.css.map": "/build/static/css/main.e8b3bfda.css.map",
+    "main.52b66732.js.map": "/build/static/js/main.52b66732.js.map",
     "787.1616acc5.chunk.js.map": "/build/static/js/787.1616acc5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.605bef00.css",
-    "static/js/main.f9c316f5.js"
+    "static/css/main.e8b3bfda.css",
+    "static/js/main.52b66732.js"
   ]
 }
