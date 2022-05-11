@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.3e34f30e.css",
-    "main.js": "/build/static/js/main.89a168b4.js",
+    "main.css": "/build/static/css/main.3205aa6d.css",
+    "main.js": "/build/static/js/main.fbb34b4f.js",
     "static/js/787.1616acc5.chunk.js": "/build/static/js/787.1616acc5.chunk.js",
     "static/media/materialdesignicons-webfont.eot": "/build/static/media/materialdesignicons-webfont.599efba674995b0fb2e2.eot",
     "static/media/materialdesignicons-webfont.ttf?v=6.6.96": "/build/static/media/materialdesignicons-webfont.616f0de3b4305c610a6c.ttf",
@@ -19,12 +19,12 @@
     "static/media/AVALANCHE.svg": "/build/static/media/AVALANCHE.98a1398bb1303e46949d24cc7c892660.svg",
     "index.html": "/build/index.html",
     "static/media/ETHEREUM.svg": "/build/static/media/ETHEREUM.84f07f5db05d9ac5384949111a3f47b1.svg",
-    "main.3e34f30e.css.map": "/build/static/css/main.3e34f30e.css.map",
-    "main.89a168b4.js.map": "/build/static/js/main.89a168b4.js.map",
+    "main.3205aa6d.css.map": "/build/static/css/main.3205aa6d.css.map",
+    "main.fbb34b4f.js.map": "/build/static/js/main.fbb34b4f.js.map",
     "787.1616acc5.chunk.js.map": "/build/static/js/787.1616acc5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e34f30e.css",
-    "static/js/main.89a168b4.js"
+    "static/css/main.3205aa6d.css",
+    "static/js/main.fbb34b4f.js"
   ]
 }
